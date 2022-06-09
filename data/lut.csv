@@ -1,0 +1,57 @@
+collapseSpp,abbrevs,pop_spp,taxon,species,allan_geol,geol_abbrevs,collapseSppShrt
+bromf.,Up_Brm_VU,Upington_bromfeldii_VU,bromfeldii,bromfieldiiSpp,calcrete,CAL,L. bromf.
+bromf.,Rw_Brm.M_UT,raaswater_bromfeldii.menelli_UT,bromfeldii.menelli,bromfieldiiSpp,paleMet,PMET,L. bromf.
+bromf.,Km1_Brm.I_XV,keimoes1_bromfeldii.insularis_XV,bromfeldii.insularis,bromfieldiiSpp,paleMet,PMET,L. bromf.
+compt.,Dd_Com.W_FE,Droedam_Comptonii.Webrii_FE,comptonii.webrii,comptoniiSpp,calcrete,CAL,L. compt.
+compt.,Mj2_Com_ED,MatjiesRd2_Comptonii_ED,comptonii,comptoniiSpp,mixed,MIX,L. compt.
+compt.,Mj1_Com_DC,MatjiesRd1_comptonii_DC,comptonii,comptoniiSpp,sedimentary,SED,L. compt.
+dint.,Pe_Fed_BCD,Pella_Federici_BCD,federici,dinteriSpp,paleMet,PMET,L. din.
+dint.,Vd_Dnt.B_FGH,vioolsdrif_dinteri.brevis_FGH,dinteri.brevis,dinteriSpp,quartz,QTZ,L. din.
+divergensSpp,Bf_Div_HIJ,bitterfontein_divergens_HIJ,divergens,divergensSpp,quartz,QTZ,L. div.
+divergensSpp,Kz_Div.A_GHI,kotzerus_divergens.amethystina_GHI,divergens.amethystina,divergensSpp,mixed,MIX,L. div.
+divergensSpp,Stryk_Div_VX,strykloof_divergens_VX,divergens,divergensSpp,quartz,QTZ,L. div.
+divergensSpp,Skk_Div_XY,SteenkampskraalRd_divergens_XY,divergens,divergensSpp,quartz,QTZ,L. div.
+fulleri,Uk_Ful_TU,uitkyk_fulleri_TU,fulleri,fulleri,calcrete,CAL,L. full.
+fulleri,Gs_Ful_MN,geselskap_fulleri_MN,fulleri,fulleri,quartz,QTZ,L. full.
+fulleri,Up_Ful_TS,Upington_fulleri_TS,fulleri,fulleri,paleMet,PMET,L. full.
+fulleri,Pf_Ful_GH,pofadder_fulleri_GH,fulleri,fulleri,calcrete,CAL,L. full.
+fulleri,Ke_Ful_FG,kenhardt_fulleri_FG,fulleri,fulleri,quartz,QTZ,L. full.
+fulleri,Nm_Ful_JK,namies_fulleri_JK,fulleri,fulleri,quartz,QTZ,L. full.
+fulleri,Sb_Ful_EF01,SidiBarani_fulleri_EF,fulleri,fulleri,quartz,QTZ,L. full.
+fulleri,Pf.C_Ful_ABC,Pofadder.Centre_Fulleri_ABC,fulleri,fulleri,calcrete,CAL,L. full.
+halliiSpp,Cop_Hal_DE,Copperton_hallii_DE,hallii,halliiSpp,calcrete,CAL,L. hallii
+halliiSpp,Vr_Hal_IH,Vrede_Hallii_IH,hallii,halliiSpp,mixed,MIX,L. hallii
+halliiSpp,bg_Hal.O_SR,boegoesberg_hallii.ochraceae_SR,hallii.ochraceae,halliiSpp,quartz,QTZ,L. hallii
+hookeriSpp,Stryd_Hkr.H_QP,Strydenburg_hookeri.hookeri_QP,hookeri.hookeri,hookeriSpp,darkIgnMet,DIGMET,L. hook.
+hookeriSpp,Lb_Hkr_XXHL,Liebeberg_hookeri_XXHL,hookeri,hookeriSpp,sedimentary,SED,L. hook.
+hookeriSpp,Wh_Hkr_JI,Whoenutell_Hookeri_JI,hookeri,hookeriSpp,paleMet,PMET,L. hook.
+hookeriSpp,Om_Hk_CD,Omdraaisvlei_hookeri_CD,hookeri,hookeriSpp,darkIgnMet,DIGMET,L. hook.
+hookeriSpp,Ry_Hkr_PO,Reynekespan_Hookeri_PO,hookeri,hookeriSpp,sedimentary,SED,L. hook.
+hookeriSpp,Md_Hkr.H_RQ,marydale1_hookeri.hookeri_RQ,hookeri.hookeri,hookeriSpp,paleMet,PMET,L. hook.
+leslieiSpp,Wtn_Les_NM,Warrenton_leslei_NM,leslei,leslieiSpp,mixed,MIX,L. les.
+leslieiSpp,Pt_Les.V_LK,platfontein_leslei.venterii_LK,leslei.venterii,leslieiSpp,calcrete,CAL,L. les.
+leslieiSpp,Pt_Les.L_KJ,Platfontein_leslei.leslei_KJ,leslei.leslei,leslieiSpp,mixed,MIX,L. les.
+localis,At_Loc_BA,Attie1_localis_BA,localis,localis,sedimentary,SED,L. loc.
+localis,Vb_Loc_CB,Versebokkraal_localis_CB,localis,localis,sedimentary,SED,L. loc.
+marmorataSpp,Kn2_Mar_OP,kangnas2_marmorata_OP,marmorata,marmorataSpp,quartz,QTZ,L. marm.
+marmorataSpp,Kn1_Mar_LM02,kangnas1_marmorata_LM,marmorata,marmorataSpp,paleMet,PMET,L. marm.
+marmorataSpp,Bbm_Mar_EFG,Blesbergmine_marmorata_EFG,marmorata,marmorataSpp,quartz,QTZ,L. marm.
+marmorataSpp,Bbm1_Mar_DEF,Blesbergmine1_Marmorata.Elisiae_DEF,marmorata.elisiae,marmorataSpp,calcrete,CAL,L. marm.
+marmorataSpp,Bb_Mar_NO,blesberg_marmorata_NO,marmorata,marmorataSpp,quartz,QTZ,L. marm.
+meyeri,Ls1_Mey_PQ,lekkersing1_meyeri_PQ,meyeri,meyeri,quartz,QTZ,L. me.
+meyeri,Ls2_Mey_QR,lekkersing2_meyeri_QR,meyeri,meyeri,quartz,QTZ,L. me.
+olivacea,Ag_Oli_CDE,aggeneys_olivacea_CDE,olivacea,olivacea,paleMet,PMET,L. oliv.
+olivacea,Pf1_Oli_YX,Pofadder1_olivacea_YX,olivacea,olivacea,paleMet,PMET,L. oliv.
+olivacea,Pf_Oli_XXOP,pofadder_olivacea_XXOP,olivacea,olivacea,quartz,QTZ,L. oliv.
+olivacea,Nm_Oli_XXON,namies_olivacea_XXON,olivacea,olivacea,paleMet,PMET,L. oliv.
+otzeniana,Hr2_Ozt_JKL,Haasriver2_otzeniana_JKL,otzeniana,otzeniana,darkIgnMet,DIGMET,L. otz.
+otzeniana,Br_Ozt_UV,brakfontein_otzeniana_UV,otzeniana,otzeniana,darkIgnMet,DIGMET,L. otz.
+otzeniana,Hr1_Ozt_IJK,Haasriver1_otzeniana_IJK,otzeniana,otzeniana,sedimentary,SED,L. otz.
+singlePops,Ab_Her_RS,alexanderbay_herrei_RS,herrei,herrei,quartz,QTZ,singlePops
+singlePops,Bv_Sal_ON,Baviaanskrans_Salicola_ON,salicola,salicola,calcrete,CAL,singlePops
+singlePops,Ht_Auc_XXAH,Hopetown_aucampiae_XXAH,aucampiae,aucampiae,mixed,MIX,singlePops
+singlePops,Bh_Les.V_ML,Boshoff_Lesleii.Venterii_ML,leslei.venteri,lesleiSpp,calcrete,CAL,singlePops
+singlePops,Rf_Nar_ST,rooifontein_naareeniae_ST,naureeniae,naureeniae,darkIgnMet,DIGMET,singlePops
+verruc.,Tk2_Ver_HG,Toekoms2_Verruculosa_HG,verruculosa,verruculosa,sedimentary,SED,L. verru.
+verruc.,Tk1_Ver_GF,Toekoms1_Verruculosa_GF,verruculosa,verruculosa,sedimentary,SED,L. verru.
+verruc.,Sb_Ver_EF02,SidiBarani_verruculosa_EF,verruculosa,verruculosa,paleMet,PMET,L. verru.

@@ -1,0 +1,2 @@
+dL_ferret_lr,dL_ferret_ls,dL_human_lr,dL_human_ls,dL_pfowl_lr,dL_pfowl_ls,dS_ferret_lr,dS_ferret_ls,dS_human_lr,dS_human_ls,dS_pfowl_lr,dS_pfowl_ls
+0,0,0,0,0,2,35,20,19,6,0,0
